@@ -1,7 +1,4 @@
 language: elixir
-branches:
-  only:
-    - "master"
 cache:
   directories:
     - deps
